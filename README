@@ -1,0 +1,13 @@
+Second homework assignment for CS537 - Interactive Computer Graphics. This program creates a 3D environment where a small particle randomly moves around the space, tracing it's path as it goes while the camera spins around it.
+
+About
+
+	Created by Ian Halpern
+	Copyright (c) 2007 Ian Halpern
+	License: GNU GPL v3
+	Contact: ian@ian-halpern.com
+
+Requirements:
+
+* freeglut3-dev
+* libglew1.6-dev
